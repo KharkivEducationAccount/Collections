@@ -40,6 +40,22 @@ history.Push("Click button ready");
 history.Push("13:20 Added Mobile phone");
 history.Push("Click button ready");
 
+cart.Add("Laptop");
+history.Push("13:14 Added Laptop");
+cart.Add("Mouse");
+history.Push("13:15 Added Mouse");
+cart.Add("Mobile phone");
+history.Push("13:20 Added Mobile phone");
+history.Push("Click button ready");
+
+cart.Add("Laptop");
+history.Push("13:14 Added Laptop");
+cart.Add("Mouse");
+history.Push("13:15 Added Mouse");
+cart.Add("Mobile phone");
+history.Push("13:20 Added Mobile phone");
+history.Push("Click button ready");
+
 Queue<string> orders = new Queue<string>();
 orders.Enqueue("#Order 101");
 history.Push("#Order 101 was created");
