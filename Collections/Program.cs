@@ -5,7 +5,7 @@ Dictionary<string, decimal> products = new Dictionary<string, decimal>()
     { "Laptop", 1200m},
     { "Mouse", 25m},
     { "Keyboard", 20m},
-    { "Mobile phone", 200m},
+    { "Mobile phone", 200m}
     { "Camera", 200m}
 };
 
