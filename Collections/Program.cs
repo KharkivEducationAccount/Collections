@@ -40,6 +40,9 @@ history.Push("Click button ready");
 history.Push("13:20 Added Mobile phone");
 history.Push("Click button ready");
 
+history.Push("13:20 Added Mobile phone");
+history.Push("Click button ready");
+
 cart.Add("Laptop");
 history.Push("13:14 Added Laptop");
 cart.Add("Mouse");
