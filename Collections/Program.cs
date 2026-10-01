@@ -11,6 +11,18 @@ Dictionary<string, decimal> products = new Dictionary<string, decimal>()
     { "Mobile phone2", 200m}
 };
 
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
 Stack<string> history = new Stack<string>();
 
 List<string> cart = new List<string>();
@@ -19,6 +31,26 @@ history.Push("13:14 Added Laptop");
 cart.Add("Mouse");
 history.Push("13:15 Added Mouse");
 cart.Add("Mobile phone");
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
 history.Push("13:20 Added Mobile phone");
 history.Push("Click button ready");
 history.Push("13:20 Added Mobile phone");
@@ -31,6 +63,22 @@ history.Push("13:20 Added Mobile phone");
 history.Push("Click button ready");
 history.Push("13:20 Added Mobile phone");
 history.Push("Click button ready");
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
 history.Push("13:20 Added Mobile phone");
 history.Push("Click button ready");
 history.Push("13:20 Added Mobile phone");
@@ -39,6 +87,22 @@ history.Push("13:20 Added Mobile phone");
 history.Push("Click button ready");
 history.Push("13:20 Added Mobile phone");
 history.Push("Click button ready");
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
 
 cart.Add("Laptop");
 history.Push("13:14 Added Laptop");
@@ -53,6 +117,22 @@ history.Push("13:14 Added Laptop");
 cart.Add("Mouse");
 history.Push("13:15 Added Mouse");
 cart.Add("Mobile phone");
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
 history.Push("13:20 Added Mobile phone");
 history.Push("Click button ready");
 
@@ -64,7 +144,23 @@ history.Push("#Order 101 was created");
 
 decimal total = 0;
 
-foreach(var item in cart)
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var item in cart)
 {
     total += products[item];
 }
@@ -91,6 +187,18 @@ foreach (var note in history)
     Console.WriteLine(note);
 }
 
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
+foreach (var note in history)
+{
+    Console.WriteLine(note);
+}
 foreach (var note in history)
 {
     Console.WriteLine(note);
